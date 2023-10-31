@@ -41,7 +41,7 @@
 	</div>
 	<div class="body">
 		<h2>
-			Pigga loves Trisha Multi-vendor <br>Malware Scanning Platform.
+			Multi-vendor <br>Malware Scanning Platform.
 		</h2>
 		<h3>One-click analyze suspicious files and URLs with 70
 			enterprise-grade security vendors.</h3>
